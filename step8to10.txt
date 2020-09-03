@@ -9,6 +9,6 @@ Alright so I am about to change this on both directories.
 
 
 
-
 This is written on my secondary directory
 more sample text yum
+
